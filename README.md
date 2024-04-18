@@ -1,4 +1,4 @@
-# Locadora
+# Locadora - TCD
 ## Projeto de locadora seguindo os princípios de SOLID e teste com JUnit. 
 
 O objetivo deste trabalho é avaliar o conhecimento e domínio do aluno em relação à aplicação dos cinco princípios de desenvolvimento de software para criar códigos limpos e fáceis de manter. Além disso, o aluno será avaliado em relação ao uso da implementação voltada a testes. 
