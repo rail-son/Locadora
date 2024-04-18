@@ -1,5 +1,5 @@
 # Locadora
-Projeto de locadora seguindo os princípios de SOLID e teste com JUnit.
+## ** Projeto de locadora seguindo os princípios de SOLID e teste com JUnit. ***
 
 O objetivo deste trabalho é avaliar o conhecimento e domínio do aluno em relação à aplicação dos cinco princípios de desenvolvimento de software para criar códigos limpos e fáceis de manter. Além disso, o aluno será avaliado em relação ao uso da implementação voltada a testes. 
 
@@ -19,7 +19,10 @@ Também deve ser capaz de cadastrar um cliente. Cada cliente possui: Nome; CPF; 
 Além disso, o usuário pode cadastrar uma locação. Cada locação vem com as seguintes informações: Lista de produtos a serem alugados; cliente; valor; tempo de locação. Lembrando que produtos já alugados não podem ser alugados novamente. O usuário deve ser capaz de:
 
 ➢Consultar dados do produto;
+
 ➢Consultar dados do Cliente;
+
 ➢Verificar se um produto está alugado ou não, e que data ele estará disponível;
+
 ➢Verificar quantos produtos com o mesmo título existem;
 
